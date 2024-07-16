@@ -1,0 +1,21 @@
+2024-07-16 13:29:33,608 --------------------
+2024-07-16 13:29:33,608 MaST.py update script began in C:\Users\mager\Documents\GitHub\MaST\MaSTat 2024-07-16 13:29:33.608740
+2024-07-16 13:29:33,613 Loaded MaST-ascii-1-SAMPLE.dat
+2024-07-16 13:29:33,910 Loaded MaST-Keys-SAMPLE.xlsx
+2024-07-16 13:29:33,975 Loaded MaST-Students-SAMPLE.xlsx
+2024-07-16 13:29:34,014 Did not find previous file MaST-data-2024-Tue.csv. Created file.
+2024-07-16 13:29:34,134 All tests regraded and written to MaST-data-2024-Tue.csv
+2024-07-16 13:29:34,404 Quantiles computed, data sorted, and data written to MaST-data-final-2024-Tue.xlsx
+2024-07-16 13:29:46,643 --------------------
+2024-07-16 13:29:46,643 MaST.py update script began in C:\Users\mager\Documents\GitHub\MaST\MaSTat 2024-07-16 13:29:46.643566
+2024-07-16 13:29:46,649 Loaded MaST-ascii-2-SAMPLE.dat
+2024-07-16 13:29:46,951 Loaded MaST-Keys-SAMPLE.xlsx
+2024-07-16 13:29:47,025 Loaded MaST-Students-SAMPLE.xlsx
+2024-07-16 13:29:47,102 Loaded MaST-data-2024-Tue.csv. Appended ASCII data to end of file.
+2024-07-16 13:29:47,277 All tests regraded and written to MaST-data-2024-Tue.csv
+2024-07-16 13:29:47,733 Quantiles computed, data sorted, and data written to MaST-data-final-2024-Tue.xlsx
+2024-07-16 13:30:43,839 --------------------
+2024-07-16 13:30:43,839 MaST.py results script began in C:\Users\mager\Documents\GitHub\MaST\MaSTat 2024-07-16 13:30:43.839285
+2024-07-16 13:30:44,188 Loaded MaST-data-final-2024-Tue.xlsx
+2024-07-16 13:30:44,258 Loaded MaST-Schools-SAMPLE.xlsx
+2024-07-16 13:30:44,295 Loaded MaST-Students-SAMPLE.xlsx
