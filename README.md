@@ -116,11 +116,11 @@ options:
 usage: MaST.py update [-h] [-a ASCII] [-k KEYS] [-i STUDENTS] [--no_lost]
 
 options:
-  -h, --help            			show this help message and exit
-  -a ASCII, --ascii ASCII			Location of ascii file from Scantron. (Default: MaST-ascii.dat
-  -k KEYS, --keys KEYS  			Location of excel file with test keys. (Default: MaST-Keys.xlsx)
-  -i STUDENTS, --students STUDENTS	Location of excel file with student registration information. (Default: MaST-Students.xlsx)
-  --no_lost             			Specify to not print missing tests. Helpful at beginning when not all scantron files have been processed.
+  -h, --help                        show this help message and exit
+  -a ASCII, --ascii ASCII           Location of ascii file from Scantron. (Default: MaST-ascii.dat
+  -k KEYS, --keys KEYS              Location of excel file with test keys. (Default: MaST-Keys.xlsx)
+  -i STUDENTS, --students STUDENTS  Location of excel file with student registration information. (Default: MaST-Students.xlsx)
+  --no_lost                         Specify to not print missing tests. Helpful at beginning when not all scantron files have been processed.
 ```
 
 ## MaST.py results --help
@@ -128,8 +128,8 @@ options:
 usage: MaST.py results [-h] [-d DATA] [-i STUDENTS] [-s SCHOOLS]
 
 options:
-  -h, --help            			show this help message and exit
-  -d DATA, --data DATA  			Location of final datat excel file made with update mode. (Default: MaST-Schools.xlsx)
-  -i STUDENTS, --students STUDENTS	Location of excel file with student registration information. (Default: MaST-Students.xlsx)
-  -s SCHOOLS, --schools SCHOOLS		Location of excel file with school information. (Default: MaST-Schools.xlsx)
+  -h, --help                        show this help message and exit
+  -d DATA, --data DATA              Location of final datat excel file made with update mode. (Default: MaST-Schools.xlsx)
+  -i STUDENTS, --students STUDENTS  Location of excel file with student registration information. (Default: MaST-Students.xlsx)
+  -s SCHOOLS, --schools SCHOOLS     Location of excel file with school information. (Default: MaST-Schools.xlsx)
 ```
